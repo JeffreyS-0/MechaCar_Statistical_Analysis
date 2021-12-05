@@ -37,3 +37,18 @@
 ![Lot 3 Manufacturing T-Test](https://user-images.githubusercontent.com/69607218/144764255-6f24c8b0-15cf-4d0d-8617-4cbc8bbfc517.png)
 
 - For the T-Test across Lot 3, we can see that they are statistically different from the population mean of 1500 with a value of 1492.431 (underlined in red). As well, with our p-value of 0.04168 (underlined in black), it is just slightly low enough (< 0.05) for us to reject the null hypothesis.
+
+## Study Design: MechaCar vs. Competition
+When purchasing a vehicle, every individual has their own personal needs and preferences on how they would like to get around. I have personally always been intrigued by sports cars on how fast they can go and how well they can handle the road.
+### Metrics
+- That being said, the metrics I would test for is horsepower and weight distribution.
+
+### Null/Alternative Hypothesis
+- The null hypothesis would be that the MechaCar's horsepower and weight distribution is similar to their competitors that are in the same vehicle class and price range.
+- The alternative hypothesis would be that the MechaCar's horsepower is either above or below their competitors and the weight distribution is a different ratio than their competitors in this particular market.
+
+### Statistical Test 
+- The statistical test I would use is a linear regression model to convey how horsepower and weight distribution can affect the overall speed and performance of the vehicle.
+
+### Data
+- In order to go through with this analysis, we would need the horsepower hp(M), or electric hp(E) and weight distribution ratios for the MechaCar and their competitors in order to determine if the MechaCar would be able to hold its ground against the stiff competition. 
