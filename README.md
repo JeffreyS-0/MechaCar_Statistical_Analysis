@@ -29,3 +29,11 @@
 - For the T-Test across Lot 1, we can see that they are also not statistically different from the population mean of 1500 with a value of 1499.719. As well, with our p-value of 1, it is not low enough for us to reject the null hypothesis.
 
 ### Lot 2
+![Lot 2 Manufacturing T-Test](https://user-images.githubusercontent.com/69607218/144763905-e7881071-4fa8-470e-8a9a-6ef14ae880b4.png)
+
+- For the T-Test across Lot 2, we can see that they are also not statistically different from the population mean of 1500 with a value of 1499.423. As well, with our p-value of 0.6072, it is not low enough for us to reject the null hypothesis.
+
+### Lot 3
+![Lot 3 Manufacturing T-Test](https://user-images.githubusercontent.com/69607218/144763969-537717b5-a833-4611-a5b1-4eaa409e85ca.png)
+
+- For the T-Test across Lot 3, we can see that they are statistically different from the population mean of 1500 with a value of 1492.431. As well, with our p-value of 0.04168, it is just slightly low enough (< 0.05) for us to reject the null hypothesis.
